@@ -27,7 +27,7 @@ I'm also working on a game and sharing progress through videos.
 
 [![Game I'm working on](https://img.youtube.com/vi/CaBJ4cIQWNk/maxresdefault.jpg)](https://www.youtube.com/watch?v=CaBJ4cIQWNk&pp=0gcJCXYbAYcqIYzv)
 
-▶️ [Watch the game video](https://www.youtube.com/watch?v=CaBJ4cIQWNk&pp=0gcJCXYbAYcqIYzv)
+[Watch the game video](https://www.youtube.com/watch?v=CaBJ4cIQWNk&pp=0gcJCXYbAYcqIYzv)
 
 ---
 
@@ -35,13 +35,13 @@ I'm also working on a game and sharing progress through videos.
 
 I also have a game development series, currently on hold.
 
-▶️ [Watch the gamedev series](https://www.youtube.com/watch?v=5gu0H1EidDo&list=PLyvNPYZimwORnyFL906yZe-vIqDVu6itJ)
+[Watch the gamedev series](https://www.youtube.com/watch?v=5gu0H1EidDo&list=PLyvNPYZimwORnyFL906yZe-vIqDVu6itJ)
 
 ## YouTube
 
 I share development videos, game progress, and project updates on YouTube.
 
-▶️ [Visit my YouTube channel](https://www.youtube.com/channel)
+[Visit my YouTube channel](https://www.youtube.com/channel)
 
 ## Tech I enjoy
 
