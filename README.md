@@ -1,5 +1,7 @@
 # Hello there!
 
+<img width="1707" height="282" alt="channels4_banner" src="https://github.com/user-attachments/assets/449d1715-5f97-42b5-97c2-04cd11a0ad09" />
+
 I'm a developer building tools, games, and open-source projects.
 
 I like working close to the metal when it makes sense, but I also enjoy building practical, user-facing software. My languages of choice are:
