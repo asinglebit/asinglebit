@@ -1,6 +1,6 @@
-# Hello there!
-
 <img width="1707" height="282" alt="channels4_banner" src="https://github.com/user-attachments/assets/449d1715-5f97-42b5-97c2-04cd11a0ad09" />
+
+# Hello there!
 
 I'm a developer building tools, games, and open-source projects.
 
