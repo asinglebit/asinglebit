@@ -19,8 +19,12 @@ That feeling is what I’m trying to understand, build with, and get better at c
       </a>
     </td>
     <td width="67%" valign="top">
-Ever wanted to render the entire commit graph of <a href="https://github.com/llvm/llvm-project">LLVM</a>? </br></br> Now you can. </br></br> <a href="https://github.com/asinglebit/guitar"><code>guitar</code></a> is an open-source, topology-first, terminal-based, cross-platform Git client built with performance in mind and love in its heart.
+      <a href="https://github.com/asinglebit/guitar"><code>guitar</code></a>
+      </br></br>
+   is an open-source, topology-first, terminal-based, cross-platform Git client built with performance in mind and love in its heart.
 The goal is to make working with Git feel clearer and faster, without hiding what Git is actually doing.
+      </br></br>
+Ever wanted to render the entire commit graph of <a href="https://github.com/llvm/llvm-project">LLVM</a>?  Now you can! 
   </tr>
 </table>
 
