@@ -13,7 +13,7 @@
     </td>
     <td width="67%" valign="top">
 Ever wanted to render the entire commit graph of <a href="[https://github.com/asinglebit/guitar](https://github.com/llvm/llvm-project)">LLVM</a>? </br></br> Now you can. </br></br> <a href="https://github.com/asinglebit/guitar"><code>guitar</code></a> is an open-source, topology-first, terminal-based, cross-platform Git client built with performance in mind and love in its heart.
-The goal is to make working with Git feel clearer, faster, and more approachable without hiding what Git is actually doing.
+The goal is to make working with Git feel clearer and faster, without hiding what Git is actually doing.
   </tr>
 </table>
 
