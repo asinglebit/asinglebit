@@ -1,8 +1,6 @@
 <img width="1707" height="282" alt="channels4_banner" src="https://github.com/user-attachments/assets/449d1715-5f97-42b5-97c2-04cd11a0ad09" />
 
 </br>
-</br>
-</br>
 
 <table>
   <tr>
@@ -17,6 +15,11 @@
       The goal is to make working with Git feel clearer, faster, and more approachable without hiding what Git is actually doing.
     </td>
   </tr>
+</table>
+
+</br>
+
+<table>
   <tr>
     <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=CaBJ4cIQWNk&amp;pp=0gcJCXYbAYcqIYzv">
@@ -29,6 +32,11 @@
       <a href="https://www.youtube.com/watch?v=CaBJ4cIQWNk&amp;pp=0gcJCXYbAYcqIYzv">youtube</a>. Come take a look!
     </td>
   </tr>
+</table>
+
+</br>
+
+<table>
   <tr>
     <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=5gu0H1EidDo&amp;list=PLyvNPYZimwORnyFL906yZe-vIqDVu6itJ"><img width="1280" height="720" src="https://github.com/user-attachments/assets/30b4c040-fe43-42bf-ae16-a544af807e0d" /></a>
@@ -39,8 +47,6 @@
   </tr>
 </table>
 
-</br>
-</br>
 </br>
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
