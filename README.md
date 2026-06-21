@@ -2,6 +2,13 @@
 
 </br>
 </br>
+
+I’m a software developer and a CGI artist with over fifteen years of experience.
+
+I like owning the whole pipeline - from paper sketches to `ZBrush` and `Blender`, from game engines to web clients and servers, from whistling to composing music. I enjoy moving between art and technology, because for me they are connected by the same thing: the human feeling of awe.
+
+That feeling is what I’m trying to understand, build with, and get better at creating.
+
 </br>
 
 <table>
