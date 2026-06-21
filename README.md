@@ -6,10 +6,6 @@
 
 <table>
   <tr>
-    <th width="33%">Project</th>
-    <th width="67%">Description</th>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/asinglebit/guitar">
         <img width="1280" height="720" alt="2" src="https://github.com/user-attachments/assets/8ed43455-b112-4910-8b39-1252945e155a" />
