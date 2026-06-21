@@ -14,7 +14,7 @@
     <td width="67%" valign="top">
       <a href="https://github.com/asinglebit/guitar"><code>guitar</code></a> - an open-source Git client.
       <br>
-Ever wanted to render the entire commit graph of [LLVM](https://github.com/llvm/llvm-project)? Now you can. `guitar` is a topology-first, terminal-based, cross-platform Git client built with performance in mind and love in its heart.
+Ever wanted to render the entire commit graph of [LLVM](https://github.com/llvm/llvm-project)? Now you can. </br> `guitar` is a topology-first, terminal-based, cross-platform Git client built with performance in mind and love in its heart.
 The goal is to make working with Git feel clearer, faster, and more approachable without hiding what Git is actually doing.
   </tr>
 </table>
