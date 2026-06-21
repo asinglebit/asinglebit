@@ -1,5 +1,6 @@
 <img width="1707" height="282" alt="channels4_banner" src="https://github.com/user-attachments/assets/449d1715-5f97-42b5-97c2-04cd11a0ad09" />
 
+
 ## What I'm working on
 <table>
   <tr>
@@ -23,22 +24,22 @@
   <tr>
     <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=CaBJ4cIQWNk&amp;pp=0gcJCXYbAYcqIYzv">
-        <img src="https://img.youtube.com/vi/CaBJ4cIQWNk/maxresdefault.jpg" alt="Game I'm working on" width="100%">
+        <img src="https://img.youtube.com/vi/CaBJ4cIQWNk/maxresdefault.jpg" width="100%">
       </a>
       <br>
-      <a href="https://www.youtube.com/watch?v=CaBJ4cIQWNk&amp;pp=0gcJCXYbAYcqIYzv">Watch the game video</a>
     </td>
     <td width="67%" valign="top">
-      Game development — I'm working on a game and sharing progress through videos.
+      "Pay per Paper" - A rogue-like immersive sim about paper. Im sharing my progress in video form on 
+      <a href="https://www.youtube.com/watch?v=CaBJ4cIQWNk&amp;pp=0gcJCXYbAYcqIYzv">youtube</a>. Come take a look!
     </td>
   </tr>
 
   <tr>
     <td width="33%" valign="top">
-      <a href="https://www.youtube.com/watch?v=5gu0H1EidDo&amp;list=PLyvNPYZimwORnyFL906yZe-vIqDVu6itJ">Watch the gamedev series</a>
+      <a href="https://www.youtube.com/watch?v=5gu0H1EidDo&amp;list=PLyvNPYZimwORnyFL906yZe-vIqDVu6itJ"><img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/8876cad9-7509-4d8b-89c5-d176152e24f7" /></a>
     </td>
     <td width="67%" valign="top">
-      Gamedev series about building an in-browser roguelike with PixiJS. I cover topics such as game design, art, and reinforcement learning.
+      <a href="https://www.youtube.com/watch?v=5gu0H1EidDo&amp;list=PLyvNPYZimwORnyFL906yZe-vIqDVu6itJ">Gamedev series</a> about building an in-browser roguelike with PixiJS. I cover topics such as game design, art, and reinforcement learning.
     </td>
   </tr>
 </table>
