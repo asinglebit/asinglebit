@@ -1,12 +1,47 @@
 <img width="1707" height="282" alt="channels4_banner" src="https://github.com/user-attachments/assets/449d1715-5f97-42b5-97c2-04cd11a0ad09" />
 
 ## What I'm working on
+<table>
+  <tr>
+    <th width="33%">Link</th>
+    <th width="67%">Description</th>
+  </tr>
 
-| Link | Description |
-|---|---|
-| [![guitar GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=asinglebit&repo=guitar)](https://github.com/asinglebit/guitar) | [`guitar`](https://github.com/asinglebit/guitar) — an open-source Git client. The goal is to make working with Git feel clearer, faster, and more approachable without hiding what Git is actually doing. |
-| [![Game I'm working on](https://img.youtube.com/vi/CaBJ4cIQWNk/maxresdefault.jpg)](https://www.youtube.com/watch?v=CaBJ4cIQWNk&pp=0gcJCXYbAYcqIYzv)<br>[Watch the game video](https://www.youtube.com/watch?v=CaBJ4cIQWNk&pp=0gcJCXYbAYcqIYzv) | Game development — I'm working on a game and sharing progress through videos. |
-| [Watch the gamedev series](https://www.youtube.com/watch?v=5gu0H1EidDo&list=PLyvNPYZimwORnyFL906yZe-vIqDVu6itJ) | Gamedev series about developing an in-browser game roguelike with PixiJS. I touch on various topics such as game design, art and reinforcement learning. |
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/asinglebit/guitar">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=asinglebit&repo=guitar" alt="guitar GitHub repo" width="100%">
+      </a>
+    </td>
+    <td width="67%" valign="top">
+      <a href="https://github.com/asinglebit/guitar"><code>guitar</code></a> — an open-source Git client.
+      <br><br>
+      The goal is to make working with Git feel clearer, faster, and more approachable without hiding what Git is actually doing.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://www.youtube.com/watch?v=CaBJ4cIQWNk&amp;pp=0gcJCXYbAYcqIYzv">
+        <img src="https://img.youtube.com/vi/CaBJ4cIQWNk/maxresdefault.jpg" alt="Game I'm working on" width="100%">
+      </a>
+      <br>
+      <a href="https://www.youtube.com/watch?v=CaBJ4cIQWNk&amp;pp=0gcJCXYbAYcqIYzv">Watch the game video</a>
+    </td>
+    <td width="67%" valign="top">
+      Game development — I'm working on a game and sharing progress through videos.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://www.youtube.com/watch?v=5gu0H1EidDo&amp;list=PLyvNPYZimwORnyFL906yZe-vIqDVu6itJ">Watch the gamedev series</a>
+    </td>
+    <td width="67%" valign="top">
+      Gamedev series about building an in-browser roguelike with PixiJS. I cover topics such as game design, art, and reinforcement learning.
+    </td>
+  </tr>
+</table>
 
 ## YouTube
 
