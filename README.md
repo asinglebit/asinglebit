@@ -4,8 +4,6 @@
 </br>
 </br>
 
-### On-going public projects
-
 <table>
   <tr>
     <td width="33%" valign="top">
