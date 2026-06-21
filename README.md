@@ -44,7 +44,7 @@
       <a href="https://www.youtube.com/watch?v=5gu0H1EidDo&amp;list=PLyvNPYZimwORnyFL906yZe-vIqDVu6itJ"><img width="1280" height="720" src="https://github.com/user-attachments/assets/30b4c040-fe43-42bf-ae16-a544af807e0d" /></a>
     </td>
     <td width="67%" valign="top">
-      <a href="https://www.youtube.com/watch?v=5gu0H1EidDo&amp;list=PLyvNPYZimwORnyFL906yZe-vIqDVu6itJ">Gamedev series</a> about building an in-browser roguelike with PixiJS. I cover topics such as game design, art, and reinforcement learning.
+<a href="https://www.youtube.com/watch?v=5gu0H1EidDo&amp;list=PLyvNPYZimwORnyFL906yZe-vIqDVu6itJ">Gamedev series</a> — building an in-browser roguelike with PixiJS. <br><br> A messy but practical devlog about hand-drawn 2D animations, a battle system where you control multiple characters at once, and me learning PixiJS by hitting every possible obstacle along the way. <br><br> If you’re into game dev, pixel-pushing, or watching a trainwreck slowly turn into a playable game, check it out. <br><br> Current WIP build: <a href="https://asinglebit.github.io/">asinglebit.github.io</a>
     </td>
   </tr>
 </table>
