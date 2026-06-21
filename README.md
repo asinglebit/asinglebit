@@ -35,7 +35,7 @@ The goal is to make working with Git feel clearer and faster, without hiding wha
       <br>
     </td>
     <td width="67%" valign="top">
-<a href="https://www.youtube.com/watch?v=CaBJ4cIQWNk&amp;pp=0gcJCXYbAYcqIYzv">Pay per Paper</a></br> a roguelike immersive sim about bureaucracy, documents, and surviving through paperwork. <br><br> I’m sharing development progress in video form on YouTube, covering systems, prototypes, design decisions, and the process of turning a strange paper-based idea into a playable game.
+<a href="https://www.youtube.com/watch?v=CaBJ4cIQWNk&amp;pp=0gcJCXYbAYcqIYzv">Pay per Paper</a></br></br> A roguelike immersive sim about bureaucracy, documents, and surviving through paperwork. I’m sharing development progress in video form on YouTube, covering systems, prototypes, design decisions, and the process of turning a strange paper-based idea into a playable game.
     </td>
   </tr>
 </table>
